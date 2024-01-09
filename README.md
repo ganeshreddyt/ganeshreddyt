@@ -1,8 +1,6 @@
 <h1 align="center">My parent's named me Ganesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshreddyt&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshreddyt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshreddyt" alt="ganeshreddyt" /></a> </p>
-
 - 🌱 I’m currently learning **PySpark and Django**
 
 - 👨‍💻 All of my projects are available at [https://itsmyportfolio-ganeshreddys.on.drv.tw/portfolio/](https://itsmyportfolio-ganeshreddys.on.drv.tw/portfolio/)
