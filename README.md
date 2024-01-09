@@ -1,7 +1,9 @@
-<h1 align="center" style="font-size: 3em;">👨‍💻 Hi, I'm Ganesh - Code Aficionado & Problem Solver 🚀</h1>
-<h3 align="center" style="font-size: 2.5em;">I am not a specific one, but the one who tries and achieve anything</h3>
+<h1 align="center" style="font-size: 3em">👨‍💻 Hi, I'm Ganesh - Code Admirer & Problem Solver 🚀</h1>
+<h2 align="center" style="font-size: 2.5em">I am not a specific one, but the one who tries and achieves anything 🌟</h2>
 
- <img src="https://64.media.tumblr.com/2dd2a52a730913cc62bbd28fda2df8d7/tumblr_mn2vtyl1511rqdrujo1_500.gifv" alt="Your GIF" width="500" height="fit-content" align="center" display="block" margin="auto">
+<p align="center">
+  <img src="https://64.media.tumblr.com/2dd2a52a730913cc62bbd28fda2df8d7/tumblr_mn2vtyl1511rqdrujo1_500.gifv" alt="Your GIF" width="600" height="auto">
+</p>
 
 - 🌱 I’m currently learning **PySpark and Django**
 
