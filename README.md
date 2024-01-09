@@ -1,5 +1,5 @@
-<h1 align="center">My parent's named me Ganesh</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshreddyt&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshreddyt" /> </p>
+<h1 align="center" style="font-size: 3em;">👨‍💻 Hi, I'm Ganesh - Code Aficionado & Problem Solver 🚀</h1>
+<h3 align="center">I am not a specific one, but the one who tries and achieve anything</h3>
 
 - 🌱 I’m currently learning **PySpark and Django**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fQHVOlb5FWs7MpkOdHUqyejH7T3LROHx/view?usp=sharing](https://drive.google.com/file/d/1fQHVOlb5FWs7MpkOdHUqyejH7T3LROHx/view?usp=sharing)
 
-- ⚡ Fun fact **I think I had mental**
+- ⚡ Fun fact **I had a good, long sleep.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,4 +24,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshreddyt&show_icons=true&locale=en&layout=compact" alt="ganeshreddyt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshreddyt&show_icons=true&locale=en&layout=compact" alt="ganeshreddyt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshreddyt&" alt="ganeshreddyt" /></p>
