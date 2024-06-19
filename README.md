@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3em">👨‍💻 Hi, I'm Ganesh - Code Admirer & Problem Solver 🚀</h1>
+<h1 align="center" style="font-size: 3em">👨‍💻 Hi, I'm ganeshhh - Code Admirer & Problem Solver 🚀</h1>
 <h2 align="center" style="font-size: 2.5em">I am not a specific one, but the one who tries and achieves anything 🌟</h2>
 
 <p align="center">
