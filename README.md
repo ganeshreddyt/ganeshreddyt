@@ -2,7 +2,7 @@
 <h2 align="center" style="font-size: 2.5em">I am not a specific one, but the one who tries and achieves anything 🌟</h2>
 
 <p align="center">
-  <img src="https://64.media.tumblr.com/2dd2a52a730913cc62bbd28fda2df8d7/tumblr_mn2vtyl1511rqdrujo1_500.gifv" alt="Your GIF" width="600" height="auto">
+  <img src="https://tenor.com/en-GB/view/do-not-run-python-python-computer-python-coding-coding-funny-coding-meme-gif-10365831290651691441" alt="Your GIF" width="600" height="auto">
 </p>
 
 - 🌱 I’m currently learning **PySpark and Django**
