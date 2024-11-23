@@ -2,8 +2,7 @@
 <h2 align="center" style="font-size: 2.5em">I am not a specific one, but the one who tries and achieves anything 🌟</h2>
 
 <p align="center">
-  <img src=" https://tenor.com/en-GB/view/do-not-run-python-python-computer-python-coding-coding-funny-coding-meme-gif-10365831290651691441" alt="Your GIF" width="600" height="auto">
-  <div class="tenor-gif-embed" data-postid="25183725" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/coding-gif-25183725">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/en-GB/view/coding-gif-25183725" alt="Your GIF" width="600" height="auto">
 </p>
 
 - 🌱 I’m currently learning **PySpark and Django**
