@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em">👨‍💻 Hi, I'm ganeshhh - Code Admirer & Problem Solver 🚀</h1>
-<h2 align="center" style="font-size: 2.5em">I am not a specific one, but the one who tries and achieves anything 🌟</h2>
+<h2 align="center" style="font-size: 2.5em">"I'm not the chosen one, but the one who tries and achieves."🌟</h2>
 
 <p align="center">
   <img src="https://c.tenor.com/CzdMW7wnLn8AAAAM/coding.gif" width="600" height="auto">
